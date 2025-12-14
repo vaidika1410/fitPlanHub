@@ -149,6 +149,8 @@ http://localhost:5173
 - Notifications
 - Plan scheduling & progress tracking
 
+---
+
 # What This Project Demonstrates
 
 - Clean backend architecture
@@ -157,10 +159,14 @@ http://localhost:5173
 - Database relationships (one-to-many, many-to-many)
 - Real-world product flow thinking
 
+---
+
 # Disclaimer
 
 This project was built as part of a placement assignment and represents an MVP implementation.
 No real payments are processed.
+
+---
 
 # Author
 
